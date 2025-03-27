@@ -46,7 +46,7 @@ READY
 
 ## Open 5GS Setup
 
-- Look at Open5GS Cheatsheet [https://github.com/mohitkr05/5G_course/blob/main/open5gs/clickops/01_Open5GS_UeRANSIM/single_vm.md]
+- Look at Open5GS Cheatsheet https://github.com/mohitkr05/5G_course/blob/main/open5gs/clickops/01_Open5GS_UeRANSIM/single_vm.md
 
   `sudo apt-get update`
 
@@ -104,5 +104,5 @@ READY
   `curl -fsSL https://open5gs.org/open5gs/assets/webui/install | sudo -E bash -`
 
   Find [Username: , Password: ]
-- On Firefox, go to [http:/localhost:3000], or [http:/localhost:9999]
+- On Firefox, go to http://localhost:3000, or http://localhost:9999
 - Login to Open 5gs with username and password
