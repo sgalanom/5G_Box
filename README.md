@@ -105,4 +105,24 @@ READY
 
   Find [Username: , Password: ]
 - On Firefox, go to http://localhost:3000, or http://localhost:9999
+
+  Check `sudo systemctl status open5gs-webui`
+
+  "Ready on ..."
 - Login to Open 5gs with username and password
+
+- For UERANSIM
+
+  `sudo apt install make gcc g++ libsctp-dev lksctp-tools iproute2 git`
+
+  `sudo snap install cmake --classic`
+
+  `mkdir ueransim`
+
+  `cd ueransim/`
+
+  `git clone https://github.com/aligungr/UERANSIM`
+
+  `cd UERANSIM/`
+
+  `make`
