@@ -14,6 +14,7 @@
 - `Start`
 
   Preinstall a driver and when prompted select it -> `ubuntu-24.04.2-desktop-amd64.iso`
+  https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso
 
 - `Try or Install Ubuntu`
   1) Language
